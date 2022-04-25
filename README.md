@@ -22,3 +22,5 @@ In this project, when the IR sensor senses a white surface, an Arduino gets 1 ( 
 5. Castor wheels
 6. Lithium-ion battery
 7. Jumper cables
+
+https://user-images.githubusercontent.com/70063630/165141550-ebc1c958-fd92-4f3c-8716-2bab97ff5535.mp4
