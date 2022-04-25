@@ -1,4 +1,4 @@
-# line-follower-robot
+# Line Follower Robot
 As the name suggests, the line follower robot is an automated vehicle that follows a visual line embedded on the surface. This visual line is a path on which the line follower robot runs. Generally, it uses a black line on a white surface, or you can adjust it as a white line on a black surface.
 
 Usually, beginners and students would get their first robotic experience with this type of robot. In this project-based article, we have informed about how to make a line follower robot using Arduino.
@@ -15,7 +15,7 @@ When IR rays fall on a black surface, it is absorbed by the black surface, and n
 In this project, when the IR sensor senses a white surface, an Arduino gets 1 ( HIGH ) as input, and when it senses a black line, an Arduino gets 0 ( LOW ) as input. Based on these inputs, an Arduino Uno provides the proper output to control the bot.
 
 # Components Used
-1.Arduino Uno 
+1. Arduino Uno 
 2. IR sensor
 3. L293D motor driver
 4. BO motor
